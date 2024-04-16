@@ -16,3 +16,6 @@ if (operator == "+") {
 } else {
   result = "Invalid operator";
 }
+
+
+console.log(`The result is: ${result}`);
