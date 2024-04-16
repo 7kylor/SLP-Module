@@ -1,3 +1,4 @@
+// coding: week 5 lab exam exercises in javascript
 
 let salesData = [];
 for (let i = 0; i < 30; i++) {
